@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "rakibs",
+  "info": {
+    "singularName": "rakib",
+    "pluralName": "rakibs",
+    "displayName": "Rakib"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "rakib": {
+      "type": "string"
+    }
+  }
+}
